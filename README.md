@@ -1,7 +1,7 @@
 # threeTemplate
 template de THREE.js para empezar a trabajar los mas rápido posible 
 
-## solo tienes que instalar three.js mediante npm
+solo tienes que instalar three.js mediante npm
 
 ```
 npm install three
